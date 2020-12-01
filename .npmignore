@@ -1,0 +1,24 @@
+# OSX
+.DS_Store
+
+# npm
+node_modules
+yarn.lock
+package-lock.json
+
+# dev
+build
+demo
+docs
+scripts
+src
+tests
+.editorconfig
+.eslintrc.js
+.gitignore.js
+.npmignore
+.prettierrc.js
+tsconfig.json
+
+# other
+CONTRIBUTING.md
