@@ -26,13 +26,19 @@ export default class JtButton extends Vue {
   @Prop({ default: false })
   private loading!: boolean;
 
+  /** Button Size */
+  @Prop({ default: 'normal' })
+  private size!: string;
+
   /** Button Attributes */
   get attributes(): object {
-    const { color, disabled, loading } = this;
+    const { color, disabled, loading, size } = this;
     const classes = {
       'jtc-button--disabled': disabled,
       'jtc-button--loading': loading,
       'jtc-button--light': color.startsWith('light'),
+      'jtc-button--small': size === 'small',
+      'jtc-button--large': size === 'large',
     };
 
     return {

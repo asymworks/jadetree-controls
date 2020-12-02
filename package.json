@@ -1,6 +1,6 @@
 {
   "name": "@jadetree/controls",
-  "version": "0.9.3",
+  "version": "0.9.4",
   "description": "Vue Controls for Jade Tree",
   "main": "lib/index.js",
   "module": "lib/index.esm.js",
