@@ -934,10 +934,10 @@
     cssnano-preset-default "^4.0.0"
     postcss "^7.0.0"
 
-"@jadetree/currency@^0.8.15":
-  version "0.8.17"
-  resolved "https://registry.yarnpkg.com/@jadetree/currency/-/currency-0.8.17.tgz#81318509788b1462bf4b93833943d4cb6a77f375"
-  integrity sha512-yyzx4jTkaj1V0JXqQGx/XiZwRov5HCF9RS7FH6hpL1d7lMG6ANtBnUWXVQ7CM3hgfpdvfA1M5dS/iL1PtdGDYw==
+"@jadetree/currency@^0.8.18":
+  version "0.8.18"
+  resolved "https://registry.yarnpkg.com/@jadetree/currency/-/currency-0.8.18.tgz#e34a490e0d132560049befa9aa8a2f4e8649ec34"
+  integrity sha512-nhv0DPkMO5j+z8BMSNYf9KmyQjIiW1rwZP6QPO5Zctwf/06hANq+A1uRg30Hy04+R5HVwXvGlLblSEapJZlsag==
   dependencies:
     decimal.js-light "^2.5.1"
 
