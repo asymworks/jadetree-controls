@@ -935,9 +935,9 @@
     postcss "^7.0.0"
 
 "@jadetree/currency@^0.8.15":
-  version "0.8.15"
-  resolved "https://registry.yarnpkg.com/@jadetree/currency/-/currency-0.8.15.tgz#ff352511bd81bff4ef8394da4735c09fec26f095"
-  integrity sha512-oU7g6l1UbsFuBfgfIhowxDkbH16UWkQHEHKJBwo/S/LDrnPy3jb56lGMQ2H7YT4rHne7dgl0PIU9sIwqUs48jw==
+  version "0.8.17"
+  resolved "https://registry.yarnpkg.com/@jadetree/currency/-/currency-0.8.17.tgz#81318509788b1462bf4b93833943d4cb6a77f375"
+  integrity sha512-yyzx4jTkaj1V0JXqQGx/XiZwRov5HCF9RS7FH6hpL1d7lMG6ANtBnUWXVQ7CM3hgfpdvfA1M5dS/iL1PtdGDYw==
   dependencies:
     decimal.js-light "^2.5.1"
 
