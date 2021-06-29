@@ -3,6 +3,14 @@
 .jtc-button {
   @apply .flex .items-center .justify-between .px-3 .py-2;
   @apply .border-2 .rounded-lg .font-medium .appearance-none;
+
+  &.jtc-button--small {
+    @apply .px-2 .py-1 .text-sm;
+  }
+
+  &.jtc-button--large {
+    @apply .px-3 .py-2 .text-lg;
+  }
 }
 
 .jtc-button:focus {
